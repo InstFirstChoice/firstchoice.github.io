@@ -1,0 +1,97 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif; /* Fuente general de la página */
+    background-color: #000000; /* Fondo negro */
+    color: #E0FFFF; /* Letra en celeste */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+.logo {
+    width: 300px; /* Tamaño del logotipo aumentado */
+    height: auto; /* Mantiene la proporción del logotipo */
+}
+
+h1 {
+    font-family: 'Georgia', serif; /* Cambia la fuente del título */
+    color: #00FA9A; /* Verde agua para el título */
+    font-size: 2.5em; /* Tamaño del título */
+    margin: 0;
+}
+
+/* Navigation Bar */
+nav {
+    background-color: #004d00; /* Fondo verde oscuro */
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #E0FFFF; /* Letra celeste en la navegación */
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+/* Main Content */
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+/* Footer */
+footer {
+    background-color: #004d00; /* Fondo verde oscuro */
+    color: #E0FFFF; /* Letra celeste */
+    text-align: center;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p {
+    margin: 5px 0;
+}
+
+footer a {
+    color: #00FA9A; /* Verde agua para los enlaces */
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline; /* Subrayado al pasar el ratón */
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .logo {
+        width: 150px; /* Tamaño del logotipo en dispositivos pequeños */
+    }
+
+    nav ul {
+        flex-direction: column;
+    }
+
+    nav ul li {
+        margin: 10px 0;
+    }
+}
