@@ -1,0 +1,107 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v1_4 {
+  width: 100%;
+  height: 1024px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v9_16 {
+  width: 473px;
+  height: 485px;
+  background: url("../images/v9_16.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 27px;
+  left: 484px;
+  overflow: hidden;
+}
+.v9_26 {
+  width: 100%;
+  height: 188px;
+  background: url("../images/v9_26.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 562px;
+  left: 129px;
+  overflow: hidden;
+}
+.v9_24 {
+  width: 221px;
+  height: 70px;
+  background: url("../images/v9_24.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 44px;
+  left: 902px;
+  overflow: hidden;
+}
+.v9_22 {
+  width: 221px;
+  height: 70px;
+  background: url("../images/v9_22.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 44px;
+  left: 337px;
+  overflow: hidden;
+}
+.v9_23 {
+  width: 221px;
+  height: 70px;
+  background: url("../images/v9_23.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 44px;
+  left: 614px;
+  overflow: hidden;
+}
+.v9_51 {
+  width: 221px;
+  height: 70px;
+  background: url("../images/v9_51.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 44px;
+  left: 60px;
+  overflow: hidden;
+}
+.v9_27 {
+  width: 100px;
+  height: 100px;
+  background: url("../images/v9_27.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 366px;
+  left: 58px;
+  overflow: hidden;
+}
