@@ -20,4 +20,3 @@ document.addEventListener("DOMContentLoaded", function() {
         window.location.href = "pagina4.html"; // Cambia esto a la URL deseada
     });
 });
-
