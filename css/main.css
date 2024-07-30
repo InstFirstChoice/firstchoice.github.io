@@ -105,4 +105,7 @@ body {
   left: 58px;
   overflow: hidden;
 }
+.v9_22, .v9_23, .v9_24, .v9_51 {
+  cursor: pointer;
+}
 
