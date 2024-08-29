@@ -56,7 +56,7 @@ body {
         background-size: cover;
         opacity: 1;
         position: absolute;
-        top: 350px;
+        top: 150px;
         left: 25px;
         overflow: hidden;
     }
@@ -68,7 +68,7 @@ body {
         margin: 20px 40px; /* Añade margen alrededor del párrafo */
         padding: 10px; /* Añade espacio interno dentro del párrafo */
         position: relative; /* Permite el uso de top, bottom, left, right */
-        top: 100px; /* Desplaza el párrafo hacia abajo */
+        top: 50px; /* Desplaza el párrafo hacia abajo */
         left: -10px; /* Desplaza el párrafo hacia la derecha */
       }
       
@@ -82,7 +82,7 @@ body {
         padding: 10px; /* Añade espacio interno dentro del párrafo */
         position: relative; /* Permite el uso de top, bottom, left, right */
         top: 100px; /* Desplaza el párrafo hacia abajo */
-        left: -10px; /* Desplaza el párrafo hacia la derecha */
+        left: 100px; /* Desplaza el párrafo hacia la derecha */
       }
 }
 
@@ -145,15 +145,15 @@ body {
     }
     
     .v34_7 {
-        width: 200px;
-        height: 200px;
+        width: 150px;
+        height: 150px;
         background: url("../eventos images/v34_7.png");
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
         opacity: 1;
         position: absolute;
-        top: 300px;
+        top: 150px;
         left: 50px;
         overflow: hidden;
     }
@@ -179,7 +179,7 @@ body {
         margin: 20px 40px; /* Añade margen alrededor del párrafo */
         padding: 30px; /* Añade espacio interno dentro del párrafo */
         position: relative; /* Permite el uso de top, bottom, left, right */
-        top: 50px; /* Desplaza el párrafo hacia abajo */
-        left: 10px; /* Desplaza el párrafo hacia la derecha */
+        top: 100px; /* Desplaza el párrafo hacia abajo */
+        left: 150px; /* Desplaza el párrafo hacia la derecha */
       }
 }
