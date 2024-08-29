@@ -1,0 +1,213 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+
+
+.resolucion {
+  width: 100%;
+  text-align: center;
+}
+
+
+/**Movil**/
+
+@media (max-width: 767px) {
+  .desktop {
+      display: none;
+  }
+  .tablet {
+      display: none;
+  }
+  .v34_3 {
+    width: 285px;
+    height: 66px;
+    background: url("../pagina contactos/v9_46.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 57px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v56_2 {
+    width: 50px;
+    height: 50px;
+    background: url("../pagina sobre nosotros images/v56_2.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 50px;
+    left: 450px;
+    overflow: hidden;
+  }
+  .v60_7 {
+    width: 50px;
+    height: 50px;
+    background: url("../pagina contactos/v60_7.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 150px;
+    left: 40px;
+    overflow: hidden;
+  }
+  .v61_6 {
+    width: 50px;
+    height: 50px;
+    background: url("../pagina contactos/v61_6.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 250px;
+    left: 40px;
+    overflow: hidden;
+  }
+  .v60_14 {
+    width: 50px;
+    height: 50px;
+    background: url("../pagina contactos/v60_14.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 350px;
+    left: 40px;
+    overflow: hidden;
+  }
+  p {
+    font-family: 'Tw Cen MT Condensed', sans-serif;
+    font-weight: bold; /* Aplica negrita solo a los <h1> */
+    font-size: 25px;
+    color: #9c9bc5;
+    text-align: justify; /* Justifica el texto a ambos lados */
+    margin: 20px 40px; /* Añade margen alrededor del párrafo */
+    padding: 0px; /* Añade espacio interno dentro del párrafo */
+    position: relative; /* Permite el uso de top, bottom, left, right */
+    top: 400px; /* Desplaza el párrafo hacia abajo */
+    left: 30px; /* Desplaza el párrafo hacia la derecha */
+  }
+  
+}
+
+
+/**Tablet**/
+
+@media (min-width: 768px) and (max-width: 990px) {
+  .desktop {
+      display: none;
+  }
+  .movil {
+      display: none;
+  }
+}
+
+
+/**Escritorio**/
+
+@media (min-width: 991px) {
+  .tablet {
+      display: none;
+  }
+  .movil {
+      display: none;
+  }
+
+  .v34_3 {
+    width: 285px;
+    height: 66px;
+    background: url("../pagina contactos/v9_46.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 57px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v56_2 {
+    width: 70px;
+    height: 70px;
+    background: url("../pagina sobre nosotros images/v56_2.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 30px;
+    left: 1200px;
+    overflow: hidden;
+  }
+  .v60_7 {
+    width: 100px;
+    height: 100px;
+    background: url("../pagina contactos/v60_7.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 150px;
+    left: 40px;
+    overflow: hidden;
+  }
+  .v61_6 {
+    width: 100px;
+    height: 100px;
+    background: url("../pagina contactos/v61_6.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 300px;
+    left: 40px;
+    overflow: hidden;
+  }
+  .v61_3 {
+    width: 100%;
+    height: 320px;
+    background: rgba(156,155,197,0.30000001192092896);
+    opacity: 1;
+    position: absolute;
+    top: 700px;
+    left: 0px;
+  }
+  .v60_14 {
+    width: 100px;
+    height: 100px;
+    background: url("../pagina contactos/v60_14.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 450px;
+    left: 40px;
+    overflow: hidden;
+  }
+  p {
+    font-family: 'Tw Cen MT Condensed', sans-serif;
+    font-weight: bold; /* Aplica negrita solo a los <h1> */
+    font-size: 30px;
+    color: #9c9bc5;
+    text-align: justify; /* Justifica el texto a ambos lados */
+    margin: 20px 40px; /* Añade margen alrededor del párrafo */
+    padding: 0px; /* Añade espacio interno dentro del párrafo */
+    position: relative; /* Permite el uso de top, bottom, left, right */
+    top: 600px; /* Desplaza el párrafo hacia abajo */
+    left: 250px; /* Desplaza el párrafo hacia la derecha */
+  }
+}
