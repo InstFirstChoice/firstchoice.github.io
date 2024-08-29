@@ -24,7 +24,7 @@ body {
   }
   .v36_2 {
     width: 100%;
-    height: 1024px;
+    height: 2024px;
     background: rgba(255,255,255,1);
     opacity: 1;
     position: relative;
@@ -45,6 +45,60 @@ body {
     left: 50px;
     overflow: hidden;
   }
+  .v1_11 {
+    width: 300px;
+    height: 300px;
+    background: url("../pagina halloween images/v1_11.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 700px;
+    left: 50px;
+    overflow: hidden;
+  }
+  .v1_12 {
+    width: 300px;
+    height: 300px;
+    background: url("../pagina halloween images/v1_12.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 700px;
+    left: 375px;
+    overflow: hidden;
+  }
+  .v1_13 {
+    width: 300px;
+    height: 300px;
+    background: url("../pagina halloween images/v1_13.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1100px;
+    left: 375px;
+    overflow: hidden;
+  }
+  .v1_14 {
+    width: 300px;
+    height: 300px;
+    background: url("../pagina halloween images/v1_14.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1100px;
+    left: 50px;
+    overflow: hidden;
+  }
+
+
   .v32_21{
     h1 {
       font-family: 'Tw Cen MT Condensed', sans-serif;
@@ -180,6 +234,59 @@ body {
     left: 1300px;
     overflow: hidden;
 }
+.v1_11 {
+  width: 300px;
+  height: 300px;
+  background: url("../pagina halloween images/v1_11.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 700px;
+  left: 50px;
+  overflow: hidden;
+}
+.v1_12 {
+  width: 300px;
+  height: 300px;
+  background: url("../pagina halloween images/v1_12.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 700px;
+  left: 400px;
+  overflow: hidden;
+}
+.v1_13 {
+  width: 300px;
+  height: 300px;
+  background: url("../pagina halloween images/v1_13.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 700px;
+  left: 750px;
+  overflow: hidden;
+}
+.v1_14 {
+  width: 300px;
+  height: 300px;
+  background: url("../pagina halloween images/v1_14.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 700px;
+  left: 1100px;
+  overflow: hidden;
+}
+
   .v32_21{
     h1 {
       font-family: 'Tw Cen MT Condensed', sans-serif;
