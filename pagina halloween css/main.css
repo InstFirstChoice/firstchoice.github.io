@@ -93,7 +93,20 @@ body {
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 21000px;
+    top: 2100px;
+    left: 50px;
+    overflow: hidden;
+  }
+  .v1_15 {
+    width: 300px;
+    height: 300px;
+    background: url("../pagina halloween images/v1_15.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 2500px;
     left: 50px;
     overflow: hidden;
   }
@@ -209,15 +222,15 @@ body {
     overflow: hidden;
   }
   .v36_3 {
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     background: url("../pagina halloween images/v36_3.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 10px;
+    top: 50px;
     left: 50px;
     overflow: hidden;
   }
@@ -244,7 +257,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 700px;
-  left: 50px;
+  left: 150px;
   overflow: hidden;
 }
 .v1_12 {
@@ -257,7 +270,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 700px;
-  left: 600px;
+  left: 750px;
   overflow: hidden;
 }
 .v1_13 {
@@ -270,7 +283,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 1200px;
-  left: 600px;
+  left: 750px;
   overflow: hidden;
 }
 .v1_14 {
@@ -283,7 +296,20 @@ body {
   opacity: 1;
   position: absolute;
   top: 1200px;
-  left: 50px;
+  left: 150px;
+  overflow: hidden;
+}
+.v1_15 {
+  width: 400px;
+  height: 400px;
+  background: url("../pagina halloween images/v1_15.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1700px;
+  left: 150px;
   overflow: hidden;
 }
 
