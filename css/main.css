@@ -113,7 +113,7 @@ body {
       p {
         font-family: 'Tw Cen MT Condensed', sans-serif;
         font-weight: bold; /* Aplica negrita solo a los <h1> */
-        font-size: 30px;
+        font-size: 25px;
         color: #9c9bc5;
         text-align: justify; /* Justifica el texto a ambos lados */
         margin: 20px 40px; /* Añade margen alrededor del párrafo */
