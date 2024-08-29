@@ -54,7 +54,7 @@ body {
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 700px;
+    top: 900px;
     left: 50px;
     overflow: hidden;
   }
@@ -67,7 +67,7 @@ body {
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 1100px;
+    top: 1300px;
     left: 50px;
     overflow: hidden;
   }
@@ -80,7 +80,7 @@ body {
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 1500px;
+    top: 1700px;
     left: 50px;
     overflow: hidden;
   }
@@ -93,7 +93,7 @@ body {
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 1900px;
+    top: 21000px;
     left: 50px;
     overflow: hidden;
   }
