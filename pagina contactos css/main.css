@@ -31,8 +31,8 @@ body {
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 10px;
-    left: -50px;
+    top: 0px;
+    left: -20px;
     overflow: hidden;
   }
   .v56_2 {
