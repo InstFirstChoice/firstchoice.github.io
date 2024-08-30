@@ -184,7 +184,14 @@ body {
       top: 60px;
       left: 370px;
       overflow: hidden;
+      transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
     }
+    
+    .v9_22:hover {
+      transform: scale(1.1); /* Escala al pasar el ratón */
+      opacity: 0.9; /* Ligera reducción de opacidad */
+    }
+    
     .v9_51 {
       width: 250px;
       height: 65px;
@@ -197,6 +204,11 @@ body {
       top: 500px;
       left: 50px;
       overflow: hidden;
+      transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
+    }
+    .v9_51:hover {
+      transform: scale(1.1); /* Escala al pasar el ratón */
+      opacity: 0.9; /* Ligera reducción de opacidad */
     }
     .v9_24 {
       width: 200px;
@@ -210,7 +222,14 @@ body {
       top: 60px;
       left: 600px;
       overflow: hidden;
+      transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
     }
+    
+    .v9_24:hover {
+      transform: scale(1.1); /* Escala al pasar el ratón */
+      opacity: 0.9; /* Ligera reducción de opacidad */
+    }
+    
     .v37_2 {
       width: 100%;
       height: 60px;
@@ -233,6 +252,11 @@ body {
       top: 60px;
       left: 850px;
       overflow: hidden;
+      transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
+    }
+    .v18_2:hover {
+      transform: scale(1.1); /* Escala al pasar el ratón */
+      opacity: 0.9; /* Ligera reducción de opacidad */
     }
     .v55_3 {
       width: 400px;
