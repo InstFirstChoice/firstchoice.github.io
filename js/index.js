@@ -29,6 +29,4 @@ window.sr = ScrollReveal();
 
     sr.reveal('.v9_51', {
         duration: 3000,
-        origin: 'left',
-        distance: '200px'
     });
