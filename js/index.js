@@ -2,11 +2,11 @@ window.sr = ScrollReveal();
 
 // pagina inicial
     sr.reveal('.v9_16', {
-        duration: 3000,
+        duration: 4000,
     });
 
     sr.reveal('.v55_3', {
-        duration: 3000,
+        duration: 4000,
     });
     sr.reveal('p', {
         duration: 3000,
