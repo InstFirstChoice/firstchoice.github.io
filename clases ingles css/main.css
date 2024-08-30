@@ -192,7 +192,12 @@ body {
     top: 60px;
     left: 500px;
     overflow: hidden;
+    transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
   }
+.v9_23:hover {
+  transform: scale(1.1); /* Escala al pasar el ratón */
+  opacity: 0.9; /* Ligera reducción de opacidad */
+}
   .v35_18 {
     width: 200px;
     height: 75px;
