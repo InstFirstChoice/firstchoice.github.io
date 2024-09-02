@@ -3,8 +3,9 @@
 }
 body {
   font-size: 14px;
+  margin: 0;
+  padding: 0;
 }
-
 
 .resolucion {
   width: 100%;
@@ -34,24 +35,65 @@ body {
     left: 10px;
     overflow: hidden;
   }
-
-
-  .v56_2 {
+  .v60_7 {
     width: 50px;
     height: 50px;
-    background: url("../clases ingles images/v56_2.png");
+    background: url("../pagina contactos/v60_7.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 10px;
-    left: 350px;
+    top: 1100px;
+    left: 300px;
     overflow: hidden;
-  }
-    .v85_1 {
-    width: 110px;
-    height: 110px;
+    transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
+}
+.v60_7:hover {
+  transform: scale(1.1); /* Escala al pasar el ratón */
+  opacity: 0.9; /* Ligera reducción de opacidad */
+}
+  .v61_6 {
+    width: 50px;
+    height: 50px;
+    background: url("../pagina contactos/v61_6.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1175px;
+    left: 300px;
+    overflow: hidden;
+    transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
+}
+.v61_6:hover {
+  transform: scale(1.1); /* Escala al pasar el ratón */
+  opacity: 0.9; /* Ligera reducción de opacidad */
+}
+
+.v60_14 {
+    width: 50px;
+    height: 50px;
+    background: url("../pagina contactos/v60_14.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1250px;
+    left: 300px;
+    overflow: hidden;
+    transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
+}
+.v60_14:hover {
+  transform: scale(1.1); /* Escala al pasar el ratón */
+  opacity: 0.9; /* Ligera reducción de opacidad */
+}
+
+   .v85_1{
+    width: 200px;
+    height: 200px;
     background: url("../clases italiano images/v85_1.png");
     background-repeat: no-repeat;
     background-position: center center;
@@ -59,9 +101,152 @@ body {
     opacity: 1;
     position: absolute;
     top: 150px;
-    left: 15px;
+    left: 150px;
     overflow: hidden;
   }
+  .v67_65 {
+    width: 200px;
+    height: 300px;
+    background: url("../clases italiano images/v67_65.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1050px;
+    left: 40px;
+    overflow: hidden;
+  }
+  .v67_66 {
+    width: 300px;
+    height: 400px;
+    background: url("../clases robotica images/v67_66.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1500px;
+    left: 50px;
+    overflow: hidden;
+  }
+  .v67_67 {
+    width: 300px;
+    height: 400px;
+    background: url("../clases robotica images/v67_67.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 2000px;
+    left: 50px;
+    overflow: hidden;
+  }
+  .v67_68 {
+    width: 300px;
+    height: 400px;
+    background: url("../clases robotica images/v67_68.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 2500px;
+    left: 50px;
+    overflow: hidden;
+  }
+  .v67_69 {
+    width: 300px;
+    height: 400px;
+    background: url("../clases robotica images/v67_69.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 3000px;
+    left: 50px;
+    overflow: hidden;
+  }
+  .v67_71 {
+    width: 300px;
+    height: 400px;
+    background: url("../clases robotica images/v67_71.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 3500px;
+    left: 50px;
+    overflow: hidden;
+  }
+  .v67_72 {
+    width: 300px;
+    height: 400px;
+    background: url("../clases robotica images/v67_72.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 4000px;
+    left: 50px;
+    overflow: hidden;
+  }
+  .v67_73{
+    width: 300px;
+    height: 400px;
+    background: url("../clases robotica images/v67_73.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 4500px;
+    left: 50px;
+    overflow: hidden;
+  }
+  .v67_74{
+    width: 300px;
+    height: 400px;
+    background: url("../clases robotica images/v67_74.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 5000px;
+    left: 50px;
+    overflow: hidden;
+  }
+  .v67_75{
+    width: 300px;
+    height: 400px;
+    background: url("../clases robotica images/v67_75.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 5500px;
+    left: 50px;
+    overflow: hidden;
+  }
+  h1 {
+    font-family: 'Tw Cen MT Condensed', sans-serif;
+    font-size: 35px;
+    color: #9c9bc5;
+    text-align: justify; /* Justifica el texto a ambos lados */
+    margin: 20px 40px; /* Añade margen alrededor del párrafo */
+    padding: 10px; /* Añade espacio interno dentro del párrafo */
+    position: relative; /* Permite el uso de top, bottom, left, right */
+    top: 1150px; /* Desplaza el párrafo hacia abajo */
+    left: 20px; /* Desplaza el párrafo hacia la derecha */
+  }
+  
+  /* Estilo para los párrafos */
   p {
     font-family: 'Tw Cen MT Condensed', sans-serif;
     font-size: 25px;
@@ -70,8 +255,8 @@ body {
     margin: 20px 40px; /* Añade margen alrededor del párrafo */
     padding: 10px; /* Añade espacio interno dentro del párrafo */
     position: relative; /* Permite el uso de top, bottom, left, right */
-    top: 100px; /* Desplaza el párrafo hacia abajo */
-    left: -10px; /* Desplaza el párrafo hacia la derecha */
+    top: 250px; /* Desplaza el párrafo hacia abajo */
+    left: 0px; /* Desplaza el párrafo hacia la derecha */
   }
 }
 
@@ -98,16 +283,62 @@ body {
       display: none;
   }
 
-  .v35_7 {
-    width: 100%;
-    height: 5024px;
-    background: rgba(255,255,255,1);
+
+  .v60_7 {
+    width: 50px;
+    height: 50px;
+    background: url("../pagina contactos/v60_7.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 0px;
-    left: 0px;
+    top: 1100px;
+    left: 300px;
     overflow: hidden;
-  }
+    transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
+}
+.v60_7:hover {
+  transform: scale(1.1); /* Escala al pasar el ratón */
+  opacity: 0.9; /* Ligera reducción de opacidad */
+}
+  .v61_6 {
+    width: 50px;
+    height: 50px;
+    background: url("../pagina contactos/v61_6.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1300px;
+    left: 300px;
+    overflow: hidden;
+    transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
+}
+.v61_6:hover {
+  transform: scale(1.1); /* Escala al pasar el ratón */
+  opacity: 0.9; /* Ligera reducción de opacidad */
+}
+
+.v60_14 {
+    width: 50px;
+    height: 50px;
+    background: url("../pagina contactos/v60_14.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1200px;
+    left: 300px;
+    overflow: hidden;
+   transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
+}
+.v60_14:hover {
+  transform: scale(1.1); /* Escala al pasar el ratón */
+  opacity: 0.9; /* Ligera reducción de opacidad */
+}
   .v35_10 {
     width: 335px;
     height: 70px;
@@ -147,7 +378,7 @@ body {
     left: 1200px;
     overflow: hidden;
   }
-  .v85_1 {
+   .v85_1{
     width: 200px;
     height: 200px;
     background: url("../clases italiano images/v85_1.png");
@@ -157,18 +388,163 @@ body {
     opacity: 1;
     position: absolute;
     top: 150px;
+    left: 500px;
+    overflow: hidden;
+  }
+  .v67_65 {
+    width: 200px;
+    height: 300px;
+    background: url("../clases italiano images/v67_65.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1050px;
     left: 40px;
     overflow: hidden;
   }
+  .v67_66 {
+    width: 300px;
+    height: 400px;
+    background: url("../clases robotica images/v67_66.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1500px;
+    left: 100px;
+    overflow: hidden;
+  }
+  .v67_67 {
+    width: 300px;
+    height: 400px;
+    background: url("../clases robotica images/v67_67.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1500px;
+    left: 500px;
+    overflow: hidden;
+  }
+  .v67_68 {
+    width: 300px;
+    height: 400px;
+    background: url("../clases robotica images/v67_68.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1500px;
+    left: 900px;
+    overflow: hidden;
+  }
+  .v67_69 {
+    width: 300px;
+    height: 400px;
+    background: url("../clases robotica images/v67_69.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 2000px;
+    left: 100px;
+    overflow: hidden;
+  }
+  .v67_71 {
+    width: 300px;
+    height: 400px;
+    background: url("../clases robotica images/v67_71.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 2000px;
+    left: 500px;
+    overflow: hidden;
+  }
+  .v67_72 {
+    width: 300px;
+    height: 400px;
+    background: url("../clases robotica images/v67_72.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 2000px;
+    left: 900px;
+    overflow: hidden;
+  }
+  .v67_73{
+    width: 300px;
+    height: 400px;
+    background: url("../clases robotica images/v67_73.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 2500px;
+    left: 100px;
+    overflow: hidden;
+  }
+  .v67_74{
+    width: 300px;
+    height: 400px;
+    background: url("../clases robotica images/v67_74.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 2500px;
+    left: 500px;
+    overflow: hidden;
+  }
+  .v67_75{
+    width: 300px;
+    height: 400px;
+    background: url("../clases robotica images/v67_75.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 2500px;
+    left: 900px;
+    overflow: hidden;
+  }
+
+  h1 {
+    font-family: 'Tw Cen MT Condensed', sans-serif;
+    font-size: 35px;
+    color: #9c9bc5;
+    text-align: justify; /* Justifica el texto a ambos lados */
+    margin: 20px 40px; /* Añade margen alrededor del párrafo */
+    padding: 10px; /* Añade espacio interno dentro del párrafo */
+    position: relative; /* Permite el uso de top, bottom, left, right */
+    top: 975px; /* Desplaza el párrafo hacia abajo */
+    left: 20px; /* Desplaza el párrafo hacia la derecha */
+  }
+  
+  /* Estilo para los párrafos */
   p {
     font-family: 'Tw Cen MT Condensed', sans-serif;
-    font-size: 25px;
+    font-size: 35px;
     color: #7e7373;
     text-align: justify; /* Justifica el texto a ambos lados */
     margin: 20px 40px; /* Añade margen alrededor del párrafo */
     padding: 10px; /* Añade espacio interno dentro del párrafo */
     position: relative; /* Permite el uso de top, bottom, left, right */
-    top: 100px; /* Desplaza el párrafo hacia abajo */
-    left: -10px; /* Desplaza el párrafo hacia la derecha */
+    top: 250px; /* Desplaza el párrafo hacia abajo */
+    left: 0px; /* Desplaza el párrafo hacia la derecha */
   }
+  
 }
