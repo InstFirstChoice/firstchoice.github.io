@@ -44,7 +44,7 @@ body {
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 1100px;
+    top: 1500px;
     left: 300px;
     overflow: hidden;
     transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
@@ -62,7 +62,7 @@ body {
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 1175px;
+    top: 1600px;
     left: 300px;
     overflow: hidden;
     transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
@@ -81,7 +81,7 @@ body {
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 1250px;
+    top: 1700px;
     left: 300px;
     overflow: hidden;
     transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
@@ -101,7 +101,7 @@ body {
     opacity: 1;
     position: absolute;
     top: 150px;
-    left: 150px;
+    left: 100px;
     overflow: hidden;
   }
   .v67_65 {
@@ -113,7 +113,7 @@ body {
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 1050px;
+     top: 1500px;
     left: 40px;
     overflow: hidden;
   }
@@ -126,7 +126,7 @@ body {
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 1500px;
+    top: 2000px;
     left: 50px;
     overflow: hidden;
   }
@@ -139,7 +139,7 @@ body {
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 2000px;
+    top: 2500px;
     left: 50px;
     overflow: hidden;
   }
@@ -152,7 +152,7 @@ body {
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 2500px;
+    top: 3000px;
     left: 50px;
     overflow: hidden;
   }
@@ -165,7 +165,7 @@ body {
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 3000px;
+    top: 3500px;
     left: 50px;
     overflow: hidden;
   }
@@ -178,7 +178,7 @@ body {
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 3500px;
+    top: 4000px;
     left: 50px;
     overflow: hidden;
   }
@@ -191,7 +191,7 @@ body {
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 4000px;
+    top: 4500px;
     left: 50px;
     overflow: hidden;
   }
@@ -204,7 +204,7 @@ body {
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 4500px;
+    top: 5000px;
     left: 50px;
     overflow: hidden;
   }
@@ -217,7 +217,7 @@ body {
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 5000px;
+    top: 5500px;
     left: 50px;
     overflow: hidden;
   }
@@ -230,7 +230,7 @@ body {
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 5500px;
+    top: 6000px;
     left: 50px;
     overflow: hidden;
   }
