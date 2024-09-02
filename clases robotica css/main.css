@@ -92,15 +92,15 @@ body {
 }
 
    .v85_1{
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
     background: url("../clases italiano images/v85_1.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 150px;
+    top: 100px;
     left: 100px;
     overflow: hidden;
   }
