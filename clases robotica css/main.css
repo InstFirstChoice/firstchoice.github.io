@@ -22,19 +22,7 @@ body {
   .tablet {
       display: none;
   }
-  .v35_10 {
-    width: 255px;
-    height: 40px;
-    background: url("../clases italiano images/v35_10.png");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    opacity: 1;
-    position: absolute;
-    top: 10px;
-    left: 10px;
-    overflow: hidden;
-  }
+
   .v60_7 {
     width: 50px;
     height: 50px;
@@ -258,7 +246,7 @@ body {
     top: 250px; /* Desplaza el párrafo hacia abajo */
     left: 0px; /* Desplaza el párrafo hacia la derecha */
   }
-  /* Ajustes para dispositivos móviles */
+/* Ajustes para dispositivos móviles */
 @media (max-width: 600px) {
   p {
       word-spacing: -0.5px; /* Reduce el espacio entre palabras */
@@ -345,19 +333,6 @@ body {
   transform: scale(1.1); /* Escala al pasar el ratón */
   opacity: 0.9; /* Ligera reducción de opacidad */
 }
-  .v35_10 {
-    width: 335px;
-    height: 70px;
-    background: url("../clases italiano images/v35_10.png");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    opacity: 1;
-    position: absolute;
-    top: 30px;
-    left: 10px;
-    overflow: hidden;
-  }
   .v35_19 {
     width: 200px;
     height: 75px;
@@ -385,16 +360,16 @@ body {
     overflow: hidden;
   }
    .v85_1{
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     background: url("../clases italiano images/v85_1.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 150px;
-    left: 500px;
+    top: 10px;
+    left: 100px;
     overflow: hidden;
   }
   .v67_65 {
