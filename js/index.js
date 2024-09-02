@@ -47,13 +47,55 @@ sr.reveal('.v35_8', {
 //pagina robotica
 sr.reveal('.v35_10', {
     duration: 3000,
-    origin: 'bottom',
+    origin: 'left',
     distance: '200px'
 });
 
 sr.reveal('.v85_1', {
     duration: 4000,
+});
+
+sr.reveal('.v67_65', {
+    duration: 4000,
+});
+
+sr.reveal('.v67_66', {
+    duration: 3000,
     origin: 'left',
+    distance: '200px'
+});
+sr.reveal('.v67_67', {
+    duration: 4000,
+});
+sr.reveal('.v67_68', {
+    duration: 3000,
+    origin: 'right',
+    distance: '200px'
+});
+sr.reveal('.v67_69', {
+    duration: 3000,
+    origin: 'left',
+    distance: '200px'
+});
+sr.reveal('.v67_71', {
+    duration: 4000,
+});
+sr.reveal('.v67_72', {
+    duration: 3000,
+    origin: 'right',
+    distance: '200px'
+});
+sr.reveal('.v67_73', {
+    duration: 3000,
+    origin: 'left',
+    distance: '200px'
+});
+sr.reveal('.v67_74', {
+    duration: 4000,
+});
+sr.reveal('.v67_75', {
+    duration: 3000,
+    origin: 'right',
     distance: '200px'
 });
 
