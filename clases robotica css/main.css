@@ -258,6 +258,12 @@ body {
     top: 250px; /* Desplaza el párrafo hacia abajo */
     left: 0px; /* Desplaza el párrafo hacia la derecha */
   }
+  /* Ajustes para dispositivos móviles */
+@media (max-width: 600px) {
+  p {
+      word-spacing: -0.5px; /* Reduce el espacio entre palabras */
+  }
+}
 }
 
 
