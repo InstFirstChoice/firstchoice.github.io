@@ -44,7 +44,7 @@ body {
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 1500px;
+    top: 1600px;
     left: 300px;
     overflow: hidden;
     transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
@@ -62,7 +62,7 @@ body {
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 1600px;
+    top: 1700px;
     left: 300px;
     overflow: hidden;
     transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
@@ -81,7 +81,7 @@ body {
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 1700px;
+    top: 1800px;
     left: 300px;
     overflow: hidden;
     transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
@@ -113,7 +113,7 @@ body {
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 1500px;
+    top: 1550px;
     left: 40px;
     overflow: hidden;
   }
@@ -242,7 +242,7 @@ body {
     margin: 20px 40px; /* Añade margen alrededor del párrafo */
     padding: 10px; /* Añade espacio interno dentro del párrafo */
     position: relative; /* Permite el uso de top, bottom, left, right */
-    top: 1400px; /* Desplaza el párrafo hacia abajo */
+    top: 1450px; /* Desplaza el párrafo hacia abajo */
     left: 20px; /* Desplaza el párrafo hacia la derecha */
   }
   
