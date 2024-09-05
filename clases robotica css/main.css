@@ -3,8 +3,8 @@
 }
 body {
   font-size: 14px;
-  margin: 0;
-  padding: 0;
+  overflow-x: hidden;
+
 }
 
 .resolucion {
@@ -22,7 +22,19 @@ body {
   .tablet {
       display: none;
   }
-
+  .v35_10 {
+    width: 255px;
+    height: 40px;
+    background: url("../clases italiano images/v35_10.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    overflow: hidden;
+  }
   .v60_7 {
     width: 50px;
     height: 50px;
@@ -333,6 +345,19 @@ body {
   transform: scale(1.1); /* Escala al pasar el ratón */
   opacity: 0.9; /* Ligera reducción de opacidad */
 }
+  .v35_10 {
+    width: 335px;
+    height: 70px;
+    background: url("../clases italiano images/v35_10.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 30px;
+    left: 10px;
+    overflow: hidden;
+  }
   .v35_19 {
     width: 200px;
     height: 75px;
@@ -360,16 +385,16 @@ body {
     overflow: hidden;
   }
    .v85_1{
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
     background: url("../clases italiano images/v85_1.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 10px;
-    left: 100px;
+    top: 150px;
+    left: 500px;
     overflow: hidden;
   }
   .v67_65 {
@@ -527,5 +552,17 @@ body {
     top: 250px; /* Desplaza el párrafo hacia abajo */
     left: 0px; /* Desplaza el párrafo hacia la derecha */
   }
-  
+  .v35_13 {
+    width: 1400px;
+    height: 130px;
+    background: url("../pagina clases/v35_13.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 3000px;
+    left: -10px;
+    overflow: hidden;
+  }
 }
