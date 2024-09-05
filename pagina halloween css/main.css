@@ -3,8 +3,7 @@
 }
 body {
   font-size: 14px;
-  margin: 0;
-  padding: 0;
+  overflow-x: hidden;
 }
 
 .resolucion {
@@ -140,6 +139,68 @@ body {
 }
 }
 
+
+/**Tablet**/
+
+@media (min-width: 768px) and (max-width: 990px) {
+  .desktop {
+      display: none;
+  }
+  .movil {
+      display: none;
+  }
+  .v36_2 {
+    width: 100%;
+    height: 1024px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v36_3 {
+    width: 272px;
+    height: 272px;
+    background: url("../pagina halloween images/v36_3.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 270px;
+    left: 74px;
+    overflow: hidden;
+  }
+  .v32_21{
+    h1 {
+      font-family: 'Tw Cen MT Condensed', sans-serif;
+      font-size: 35px;
+      color: #9c9bc5;
+      text-align: justify; /* Justifica el texto a ambos lados */
+      margin: 20px 40px; /* Añade margen alrededor del párrafo */
+      padding: 10px; /* Añade espacio interno dentro del párrafo */
+      position: relative; /* Permite el uso de top, bottom, left, right */
+      top: 150px; /* Desplaza el párrafo hacia abajo */
+      left: -10px; /* Desplaza el párrafo hacia la derecha */
+    }
+    
+    /* Estilo para los párrafos */
+    p {
+      font-family: 'Tw Cen MT Condensed', sans-serif;
+      font-size: 25px;
+      color: #7e7373;
+      text-align: justify; /* Justifica el texto a ambos lados */
+      margin: 20px 40px; /* Añade margen alrededor del párrafo */
+      padding: 10px; /* Añade espacio interno dentro del párrafo */
+      position: relative; /* Permite el uso de top, bottom, left, right */
+      top: 150px; /* Desplaza el párrafo hacia abajo */
+      left: -10px; /* Desplaza el párrafo hacia la derecha */
+    }
+}
+}
+
+
 /**Escritorio**/
 
 @media (min-width: 991px) {
@@ -149,16 +210,7 @@ body {
   .movil {
       display: none;
   }
-  .v36_2 {
-    width: 100%;
-    height: 3024px;
-    background: rgba(255,255,255,1);
-    opacity: 1;
-    position: relative;
-    top: 0px;
-    left: 0px;
-    overflow: hidden;
-  }
+
   .v36_3 {
     width: 100px;
     height: 100px;
@@ -195,7 +247,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 700px;
-  left: 150px;
+  left: 100px;
   overflow: hidden;
 }
 .v1_12 {
@@ -208,7 +260,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 700px;
-  left: 750px;
+  left: 800px;
   overflow: hidden;
 }
 .v1_13 {
@@ -221,7 +273,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 1200px;
-  left: 750px;
+  left: 100px;
   overflow: hidden;
 }
 .v1_14 {
@@ -234,7 +286,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 1200px;
-  left: 150px;
+  left: 800px;
   overflow: hidden;
 }
 .v1_15 {
@@ -247,7 +299,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 1700px;
-  left: 150px;
+  left: 100px;
   overflow: hidden;
 }
 
@@ -276,6 +328,19 @@ body {
       top: 200px; /* Desplaza el párrafo hacia abajo */
       left: -10px; /* Desplaza el párrafo hacia la derecha */
     }
+}
+.v35_13 {
+  width: 1400px;
+  height: 130px;
+  background: url("../pagina clases/v35_13.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2300px;
+  left: -10px;
+  overflow: hidden;
 }
 }
 
