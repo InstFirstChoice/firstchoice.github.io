@@ -3,6 +3,7 @@
 }
 body {
   font-size: 14px;
+  overflow-x: hidden;
 }
 
 
@@ -125,16 +126,7 @@ body {
     left: 1200px;
     overflow: hidden;
   }
-  .v9_32 {
-    width: 100%;
-    height: 1024px;
-    background: rgba(255,255,255,1);
-    opacity: 1;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    overflow: hidden;
-  }
+
   .v9_33 {
     width: 335px;
     height: 70px;
@@ -214,6 +206,19 @@ body {
     position: absolute;
     top: 120px;
     left: 300px;
+    overflow: hidden;
+  }
+  .v35_13 {
+    width: 1400px;
+    height: 130px;
+    background: url("../pagina clases/v35_13.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 700px;
+    left: -10px;
     overflow: hidden;
   }
 
