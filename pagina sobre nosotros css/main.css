@@ -3,8 +3,7 @@
 }
 body {
   font-size: 14px;
-  margin: 0;
-  padding: 0;
+  overflow-x: hidden;
 }
 
 .resolucion {
@@ -140,16 +139,7 @@ p, ul li {
       display: none;
   }
 
-  .v9_29 {
-    width: 100%;
-    height: 2000px; /* Aumenta la altura según sea necesario */
-    background: rgba(255,255,255,1);
-    opacity: 1;
-    position: relative;
-    top: 0px;
-    left: 0px;
-    overflow: hidden;
-  }
+
   .v37_22 {
     width: 100%;
     height: 60px;
@@ -258,5 +248,19 @@ p, ul li {
   top: 150px;
   left: 0px;
 }
+.v35_13 {
+  width: 1400px;
+  height: 130px;
+  background: url("../pagina clases/v35_13.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1000px;
+  left: -10px;
+  overflow: hidden;
+}
+
 
 }
