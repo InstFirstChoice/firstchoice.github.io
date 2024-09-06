@@ -253,35 +253,6 @@ body {
   }
 }
 
-.v35_13 {
-  width: 1400px;
-  height: 130px;
-  background: url("../pagina clases/v35_13.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  opacity: 1;
-  position: absolute;
-  top: 7000px;
-  left: -10px;
-  overflow: hidden;
-}
-h2 {
-  font-family: 'Tw Cen MT Condensed', sans-serif;
-  font-size: 20px;
-  color: #9c9bc5;
-  text-align: justify; /* Justifica el texto a ambos lados */
-  margin: 20px 40px; /* Añade margen alrededor del párrafo */
-  padding: 10px; /* Añade espacio interno dentro del párrafo */
-  position: relative; /* Permite el uso de top, bottom, left, right */
-  top: 5000px; /* Desplaza el párrafo hacia abajo */
-  left: 10px; /* Desplaza el párrafo hacia la derecha */
-}
-
-
-
-
-
 }
 
 
@@ -567,103 +538,9 @@ h2 {
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 3600px;
+    top: 3000px;
     left: -10px;
     overflow: hidden;
-  }
-  h2 {
-    font-family: 'Tw Cen MT Condensed', sans-serif;
-    font-size: 35px;
-    color: #9c9bc5;
-    text-align: justify; /* Justifica el texto a ambos lados */
-    margin: 20px 40px; /* Añade margen alrededor del párrafo */
-    padding: 10px; /* Añade espacio interno dentro del párrafo */
-    position: relative; /* Permite el uso de top, bottom, left, right */
-    top: 2300px; /* Desplaza el párrafo hacia abajo */
-    left: 20px; /* Desplaza el párrafo hacia la derecha */
-  }
-  .v67_76{
-    width: 50px;
-    height: 50px;
-    background: url("../clases robotica images/v67_76.png");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    opacity: 1;
-    position: absolute;
-    top: 3150px;
-    left: 70px;
-    overflow: hidden;
-    transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
-  }
-  .v67_76:hover {
-    transform: scale(1.1); /* Escala al pasar el ratón */
-    opacity: 0.9; /* Ligera reducción de opacidad */
-  }
-  .v67_77{
-    width: 50px;
-    height: 50px;
-    background: url("../clases robotica images/v67_76.png");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    opacity: 1;
-    position: absolute;
-    top: 3250px;
-    left: 70px;
-    overflow: hidden;
-    transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
-  }
-  .v67_77:hover {
-    transform: scale(1.1); /* Escala al pasar el ratón */
-    opacity: 0.9; /* Ligera reducción de opacidad */
-  }
-  .v67_78{
-    width: 50px;
-    height: 50px;
-    background: url("../clases robotica images/v67_76.png");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    opacity: 1;
-    position: absolute;
-    top: 3350px;
-    left: 70px;
-    overflow: hidden;
-    transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
-  }
-  .v67_78:hover {
-    transform: scale(1.1); /* Escala al pasar el ratón */
-    opacity: 0.9; /* Ligera reducción de opacidad */
-  }
-  .v67_79{
-    width: 50px;
-    height: 50px;
-    background: url("../clases robotica images/v67_76.png");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    opacity: 1;
-    position: absolute;
-    top: 3450px;
-    left: 70px;
-    overflow: hidden;
-    transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
-  }
-  .v67_79:hover {
-    transform: scale(1.1); /* Escala al pasar el ratón */
-    opacity: 0.9; /* Ligera reducción de opacidad */
-  }
-  h2 {
-    font-family: 'Tw Cen MT Condensed', sans-serif;
-    font-size: 35px;
-    color: #9c9bc5;
-    text-align: justify; /* Justifica el texto a ambos lados */
-    margin: 20px 40px; /* Añade margen alrededor del párrafo */
-    padding: 10px; /* Añade espacio interno dentro del párrafo */
-    position: relative; /* Permite el uso de top, bottom, left, right */
-    top: 2300px; /* Desplaza el párrafo hacia abajo */
-    left: 20px; /* Desplaza el párrafo hacia la derecha */
   }
 
 }
