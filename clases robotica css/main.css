@@ -266,6 +266,20 @@ body {
   left: -10px;
   overflow: hidden;
 }
+h2 {
+  font-family: 'Tw Cen MT Condensed', sans-serif;
+  font-size: 35px;
+  color: #9c9bc5;
+  text-align: justify; /* Justifica el texto a ambos lados */
+  margin: 20px 40px; /* Añade margen alrededor del párrafo */
+  padding: 10px; /* Añade espacio interno dentro del párrafo */
+  position: relative; /* Permite el uso de top, bottom, left, right */
+  top: 5300px; /* Desplaza el párrafo hacia abajo */
+  left: 10px; /* Desplaza el párrafo hacia la derecha */
+}
+
+
+
 
 
 }
@@ -640,6 +654,16 @@ body {
     transform: scale(1.1); /* Escala al pasar el ratón */
     opacity: 0.9; /* Ligera reducción de opacidad */
   }
-
+  h2 {
+    font-family: 'Tw Cen MT Condensed', sans-serif;
+    font-size: 35px;
+    color: #9c9bc5;
+    text-align: justify; /* Justifica el texto a ambos lados */
+    margin: 20px 40px; /* Añade margen alrededor del párrafo */
+    padding: 10px; /* Añade espacio interno dentro del párrafo */
+    position: relative; /* Permite el uso de top, bottom, left, right */
+    top: 2300px; /* Desplaza el párrafo hacia abajo */
+    left: 20px; /* Desplaza el párrafo hacia la derecha */
+  }
 
 }
