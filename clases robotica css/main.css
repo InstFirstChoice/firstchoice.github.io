@@ -262,19 +262,19 @@ body {
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 6500px;
+  top: 7000px;
   left: -10px;
   overflow: hidden;
 }
 h2 {
   font-family: 'Tw Cen MT Condensed', sans-serif;
-  font-size: 35px;
+  font-size: 20px;
   color: #9c9bc5;
   text-align: justify; /* Justifica el texto a ambos lados */
   margin: 20px 40px; /* Añade margen alrededor del párrafo */
   padding: 10px; /* Añade espacio interno dentro del párrafo */
   position: relative; /* Permite el uso de top, bottom, left, right */
-  top: 5300px; /* Desplaza el párrafo hacia abajo */
+  top: 5000px; /* Desplaza el párrafo hacia abajo */
   left: 10px; /* Desplaza el párrafo hacia la derecha */
 }
 
