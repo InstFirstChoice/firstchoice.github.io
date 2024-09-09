@@ -13,6 +13,12 @@ window.sr = ScrollReveal();
         origin: 'left',
         distance: '200px'
     });
+// boton hacia atras
+sr.reveal('.v59_4', {
+    duration: 3000,
+    origin: 'right',
+    distance: '200px'
+});
 
 //pagina sobre nosotros
 sr.reveal('.v9_30', {
@@ -99,9 +105,6 @@ sr.reveal('.v67_75', {
     distance: '200px'
 });
 
-
-
-
 // pagina contactos
 sr.reveal('.v34_3', {
     duration: 3000,
@@ -111,6 +114,15 @@ sr.reveal('.v34_3', {
 sr.reveal('.v60_99', {
     duration: 3000,
 });
+sr.reveal('h1', {
+    duration: 3000,
+});
+sr.reveal('h2', {
+    duration: 3000,
+});
+
+
+
 
 //pagina eventos
 sr.reveal('.v34_2', {
