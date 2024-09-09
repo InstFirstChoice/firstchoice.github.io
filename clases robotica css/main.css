@@ -254,7 +254,7 @@ body {
     margin: 20px 40px; /* Añade margen alrededor del párrafo */
     padding: 10px; /* Añade espacio interno dentro del párrafo */
     position: relative; /* Permite el uso de top, bottom, left, right */
-    top: 1000px; /* Desplaza el párrafo hacia abajo */
+    top: 800px; /* Desplaza el párrafo hacia abajo */
     left: 20px; /* Desplaza el párrafo hacia la derecha */
   }
   
