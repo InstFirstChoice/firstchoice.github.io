@@ -46,7 +46,7 @@
         background-size: cover;
         opacity: 1;
         position: absolute;
-        top: 220px;
+        top: 240px;
         left: 240px;
         overflow: hidden;
         transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
@@ -64,7 +64,7 @@
         background-size: cover;
         opacity: 1;
         position: absolute;
-        top: 220px;
+        top: 240px;
         left: 120px;
         overflow: hidden;
         transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
@@ -82,7 +82,7 @@
         background-size: cover;
         opacity: 1;
         position: absolute;
-        top: 220px;
+        top: 240px;
         left: 160px;
         overflow: hidden;
         transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
@@ -100,7 +100,7 @@
         background-size: cover;
         opacity: 1;
         position: absolute;
-        top: 220px;
+        top: 240px;
         left: 200px;
         overflow: hidden;
         transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
@@ -123,7 +123,7 @@
       }
 
       .v67_80 {
-        width: 400px;
+        width: 450px;
         height: 700px;
         background: url("../clases robotica images/v67_80.png");
         background-repeat: no-repeat;
