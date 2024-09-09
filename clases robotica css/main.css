@@ -248,13 +248,13 @@ body {
   }
     h2 {
     font-family: 'Tw Cen MT Condensed', sans-serif;
-    font-size: 25px;
+    font-size: 20px;
     color: #9c9bc5;
     text-align: justify; /* Justifica el texto a ambos lados */
     margin: 20px 40px; /* Añade margen alrededor del párrafo */
     padding: 10px; /* Añade espacio interno dentro del párrafo */
     position: relative; /* Permite el uso de top, bottom, left, right */
-    top: 800px; /* Desplaza el párrafo hacia abajo */
+    top: 600px; /* Desplaza el párrafo hacia abajo */
     left: 20px; /* Desplaza el párrafo hacia la derecha */
   }
   
