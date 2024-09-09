@@ -142,7 +142,19 @@ body {
   .movil {
       display: none;
   }
-
+  .v59_4 {
+    width: 100px;
+    height: 100px;
+    background: url("../pagina clases/v59_4.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 30px;
+    left: 1200px;
+    overflow: hidden;
+  }
   .v9_37 {
     width: 335px;
     height: 70px;
