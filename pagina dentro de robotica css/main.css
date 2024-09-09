@@ -1,0 +1,330 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-size: 14px;
+    overflow-x: hidden;
+  
+  }
+  
+  .resolucion {
+    width: 100%;
+    text-align: center;
+  }
+  
+  
+  /**Movil**/
+  
+  @media (max-width: 767px) {
+    .desktop {
+        display: none;
+    }
+    .tablet {
+        display: none;
+    }
+
+    .v85_1{
+        width: 200px;
+        height: 200px;
+        background: url("../clases italiano images/v85_1.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 10px;
+        left: 100px;
+        overflow: hidden;
+      }
+
+      .v67_76{
+        width: 30px;
+        height: 30px;
+        background: url("../clases robotica images/v67_76.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 220px;
+        left: 240px;
+        overflow: hidden;
+        transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
+      }
+      .v67_76:hover {
+        transform: scale(1.1); /* Escala al pasar el ratón */
+        opacity: 0.9; /* Ligera reducción de opacidad */
+      }
+      .v67_77{
+        width: 30px;
+        height: 30px;
+        background: url("../clases robotica images/v67_76.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 220px;
+        left: 120px;
+        overflow: hidden;
+        transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
+      }
+      .v67_77:hover {
+        transform: scale(1.1); /* Escala al pasar el ratón */
+        opacity: 0.9; /* Ligera reducción de opacidad */
+      }
+      .v67_78{
+        width: 30px;
+        height: 30px;
+        background: url("../clases robotica images/v67_76.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 220px;
+        left: 160px;
+        overflow: hidden;
+        transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
+      }
+      .v67_78:hover {
+        transform: scale(1.1); /* Escala al pasar el ratón */
+        opacity: 0.9; /* Ligera reducción de opacidad */
+      }
+      .v67_79{
+        width: 30px;
+        height: 30px;
+        background: url("../clases robotica images/v67_76.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 220px;
+        left: 200px;
+        overflow: hidden;
+        transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
+      }
+      .v67_79:hover {
+        transform: scale(1.1); /* Escala al pasar el ratón */
+        opacity: 0.9; /* Ligera reducción de opacidad */
+      }
+
+      h1 {
+        font-family: 'Tw Cen MT Condensed', sans-serif;
+        font-size: 20px;
+        color: #9c9bc5;
+        text-align: justify; /* Justifica el texto a ambos lados */
+        margin: 20px 40px; /* Añade margen alrededor del párrafo */
+        padding: 10px; /* Añade espacio interno dentro del párrafo */
+        position: relative; /* Permite el uso de top, bottom, left, right */
+        top: 150px; /* Desplaza el párrafo hacia abajo */
+        left: 10px; /* Desplaza el párrafo hacia la derecha */
+      }
+
+      .v67_80 {
+        width: 400px;
+        height: 700px;
+        background: url("../clases robotica images/v67_80.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 300px;
+        left: 0px;
+        overflow: hidden;
+        z-index: 1; /* Capa inferior */
+      }
+
+
+      .video-container {
+        width: 75%; /* El video ocupará el 15% del ancho de la pantalla */
+        margin: 400px 50px; /* Añade margen alrededor del video */
+        height: auto;
+        position: absolute; /* Hace que el video se pueda posicionar sobre la imagen */
+        top: 0px; /* Ajusta la posición según sea necesario */
+        left: 0px; /* Ajusta la posición según sea necesario */
+        z-index: 2; /* Capa superior para que se vea sobre la imagen */
+      }
+      
+      video {
+        width: 100%;
+        height: auto;
+        max-width: 100%;
+      }
+      
+
+    
+  }
+  
+  
+  /**Tablet**/
+  
+  @media (min-width: 768px) and (max-width: 990px) {
+    .desktop {
+        display: none;
+    }
+    .movil {
+        display: none;
+    }
+  }
+  
+  
+  /**Escritorio**/
+  
+  @media (min-width: 991px) {
+    .tablet {
+        display: none;
+    }
+    .movil {
+        display: none;
+    }
+    .v59_4 {
+      width: 100px;
+      height: 100px;
+      background: url("../pagina clases/v59_4.png");
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-size: cover;
+      opacity: 1;
+      position: absolute;
+      top: 30px;
+      left: 1200px;
+      overflow: hidden;
+      z-index: 2; /* Capa superior para que se vea sobre la imagen */
+    }
+    .v85_1{
+        width: 200px;
+        height: 200px;
+        background: url("../clases italiano images/v85_1.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 10px;
+        left: 50px;
+        overflow: hidden;
+      }
+
+      .v67_76{
+        width: 40px;
+        height: 40px;
+        background: url("../clases robotica images/v67_76.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 250px;
+        left: 100px;
+        overflow: hidden;
+        transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
+      }
+      .v67_76:hover {
+        transform: scale(1.1); /* Escala al pasar el ratón */
+        opacity: 0.9; /* Ligera reducción de opacidad */
+      }
+      .v67_77{
+        width: 40px;
+        height: 40px;
+        background: url("../clases robotica images/v67_76.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 250px;
+        left: 200px;
+        overflow: hidden;
+        transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
+      }
+      .v67_77:hover {
+        transform: scale(1.1); /* Escala al pasar el ratón */
+        opacity: 0.9; /* Ligera reducción de opacidad */
+      }
+      .v67_78{
+        width: 40px;
+        height: 40px;
+        background: url("../clases robotica images/v67_76.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 250px;
+        left: 300px;
+        overflow: hidden;
+        transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
+      }
+      .v67_78:hover {
+        transform: scale(1.1); /* Escala al pasar el ratón */
+        opacity: 0.9; /* Ligera reducción de opacidad */
+      }
+      .v67_79{
+        width: 40px;
+        height: 40px;
+        background: url("../clases robotica images/v67_76.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 250px;
+        left: 400px;
+        overflow: hidden;
+        transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
+      }
+      .v67_79:hover {
+        transform: scale(1.1); /* Escala al pasar el ratón */
+        opacity: 0.9; /* Ligera reducción de opacidad */
+      }
+
+      h1 {
+        font-family: 'Tw Cen MT Condensed', sans-serif;
+        font-size: 35px;
+        color: #9c9bc5;
+        text-align: justify; /* Justifica el texto a ambos lados */
+        margin: 20px 40px; /* Añade margen alrededor del párrafo */
+        padding: 10px; /* Añade espacio interno dentro del párrafo */
+        position: relative; /* Permite el uso de top, bottom, left, right */
+        top: 150px; /* Desplaza el párrafo hacia abajo */
+        left: 10px; /* Desplaza el párrafo hacia la derecha */
+      }
+
+      .v67_80 {
+        width: 1000px;
+        height: 700px;
+        background: url("../clases robotica images/v67_80.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 00px;
+        left: 750px;
+        overflow: hidden;
+        z-index: 1; /* Capa inferior */
+      }
+
+
+      .video-container {
+        width: 20%; /* El video ocupará el 15% del ancho de la pantalla */
+        margin: 100px 800px; /* Añade margen alrededor del video */
+        height: auto;
+        position: absolute; /* Hace que el video se pueda posicionar sobre la imagen */
+        top: 0; /* Ajusta la posición según sea necesario */
+        left: 10; /* Ajusta la posición según sea necesario */
+        z-index: 2; /* Capa superior para que se vea sobre la imagen */
+      }
+      
+      video {
+        width: 100%;
+        height: auto;
+        max-width: 100%;
+      }
+      
+
+  }
+  
