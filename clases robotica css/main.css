@@ -24,8 +24,8 @@ body {
   }
 
   .v60_7 {
-    width: 50px;
-    height: 50px;
+    width: 30px;
+    height: 30px;
     background: url("../pagina contactos/v60_7.png");
     background-repeat: no-repeat;
     background-position: center center;
@@ -42,15 +42,15 @@ body {
   opacity: 0.9; /* Ligera reducción de opacidad */
 }
   .v61_6 {
-    width: 50px;
-    height: 50px;
+    width: 30px;
+    height: 30px;
     background: url("../pagina contactos/v61_6.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 1700px;
+    top: 1650px;
     left: 300px;
     overflow: hidden;
     transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
@@ -61,15 +61,15 @@ body {
 }
 
 .v60_14 {
-    width: 50px;
-    height: 50px;
+  width: 30px;
+  height: 30px;
     background: url("../pagina contactos/v60_14.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 1800px;
+    top: 1700px;
     left: 300px;
     overflow: hidden;
     transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
@@ -77,6 +77,19 @@ body {
 .v60_14:hover {
   transform: scale(1.1); /* Escala al pasar el ratón */
   opacity: 0.9; /* Ligera reducción de opacidad */
+}
+.v70_07 {
+  width: 30px;
+  height: 30px;
+  background: url("../clases robotica images/v67_76.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1750px;
+  left: 300px;
+  overflow: hidden;
 }
 
    .v85_1{
@@ -253,6 +266,8 @@ body {
   }
 }
 
+
+
 }
 
 
@@ -277,19 +292,31 @@ body {
   .movil {
       display: none;
   }
-
+  .v59_4 {
+    width: 100px;
+    height: 100px;
+    background: url("../pagina clases/v59_4.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 30px;
+    left: 1200px;
+    overflow: hidden;
+  }
 
   .v60_7 {
-    width: 50px;
-    height: 50px;
+    width: 30px;
+    height: 30px;
     background: url("../pagina contactos/v60_7.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 1100px;
-    left: 300px;
+    top: 1150px;
+    left: 700px;
     overflow: hidden;
     transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
 }
@@ -298,16 +325,16 @@ body {
   opacity: 0.9; /* Ligera reducción de opacidad */
 }
   .v61_6 {
-    width: 50px;
-    height: 50px;
+    width: 30px;
+    height: 30px;
     background: url("../pagina contactos/v61_6.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 1300px;
-    left: 300px;
+    top: 1150px;
+    left: 750px;
     overflow: hidden;
     transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
 }
@@ -317,16 +344,16 @@ body {
 }
 
 .v60_14 {
-    width: 50px;
-    height: 50px;
+    width: 30px;
+    height: 30px;
     background: url("../pagina contactos/v60_14.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 1200px;
-    left: 300px;
+    top: 1150px;
+    left: 800px;
     overflow: hidden;
    transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
 }
@@ -384,7 +411,7 @@ body {
     opacity: 1;
     position: absolute;
     top: 1050px;
-    left: 40px;
+    left: 120px;
     overflow: hidden;
   }
   .v67_66 {
@@ -514,7 +541,18 @@ body {
     padding: 10px; /* Añade espacio interno dentro del párrafo */
     position: relative; /* Permite el uso de top, bottom, left, right */
     top: 975px; /* Desplaza el párrafo hacia abajo */
-    left: 20px; /* Desplaza el párrafo hacia la derecha */
+    left: 100px; /* Desplaza el párrafo hacia la derecha */
+  }
+  h2 {
+    font-family: 'Tw Cen MT Condensed', sans-serif;
+    font-size: 25px;
+    color: #9c9bc5;
+    text-align: justify; /* Justifica el texto a ambos lados */
+    margin: 20px 40px; /* Añade margen alrededor del párrafo */
+    padding: 10px; /* Añade espacio interno dentro del párrafo */
+    position: relative; /* Permite el uso de top, bottom, left, right */
+    top: 350px; /* Desplaza el párrafo hacia abajo */
+    left: 580px; /* Desplaza el párrafo hacia la derecha */
   }
   
   /* Estilo para los párrafos */
@@ -541,6 +579,24 @@ body {
     top: 3000px;
     left: -10px;
     overflow: hidden;
+  }
+  .v70_07 {
+    width: 30px;
+    height: 30px;
+    background: url("../clases robotica images/v67_76.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1150px;
+    left: 850px;
+    overflow: hidden;
+    transition: transform 0.3s ease, opacity 0.3s ease; /* Agregando transición */
+  }
+  .v70_07:hover {
+    transform: scale(1.1); /* Escala al pasar el ratón */
+    opacity: 0.9; /* Ligera reducción de opacidad */
   }
 
 }
